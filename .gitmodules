@@ -1,0 +1,6 @@
+[submodule "sakugwej-frontend"]
+	path = sakugwej-frontend
+	url = https://github.com/Stanley77-web/sakugwej-frontend.git
+[submodule "sakugwej-backend"]
+	path = sakugwej-backend
+	url = https://github.com/Stanley77-web/sakugwej-backend.git
